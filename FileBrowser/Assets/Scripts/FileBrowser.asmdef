@@ -1,3 +1,14 @@
 {
-	"name": "FileBrowser"
+    "name": "FileBrowser",
+    "rootNamespace": "FileBrowser",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
 }
