@@ -33,7 +33,7 @@ namespace FileBrowser.Controllers
                 Filter = GetExtensionFilter(configuration.ExtensionFilters),
                 FilterIndex = 1,
                 Multiselect = configuration.Multiselect,
-                FileName = configuration.InitialDirectory,
+                InitialDirectory = configuration.InitialDirectory,
             };
 
             return dialog.ShowDialog(GetWindow()) == DialogResult.OK
@@ -48,7 +48,7 @@ namespace FileBrowser.Controllers
                 Title = configuration.Title,
                 Filter = GetExtensionFilter(configuration.ExtensionFilters),
                 FilterIndex = 1,
-                FileName = configuration.InitialDirectory,
+                InitialDirectory = configuration.InitialDirectory,
             };
 
             return dialog.ShowDialog(GetWindow()) == DialogResult.OK
