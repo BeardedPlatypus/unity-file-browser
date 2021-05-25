@@ -7,7 +7,7 @@ It wraps the [Ookii.Dialogs.WinForms](https://github.com/ookii-dialogs/ookii-dia
  
 There are two main ways to install this package in your Unity project:
 
-* [The latest `unitypackage` release]().
+* [The latest `unitypackage` release](https://github.com/BeardedPlatypus/unity-file-browser/releases/tag/v0.1.0).
 * [The upm branch]()
 
 # Examples
