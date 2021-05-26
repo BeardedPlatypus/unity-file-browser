@@ -1,6 +1,6 @@
 using System.Collections.Generic;
-using FileBrowser.Configurations;
-using FileBrowser.Controllers;
+using BeardedPlatypus.FileBrowser.Configurations;
+using BeardedPlatypus.FileBrowser.Controllers;
 
 namespace BeardedPlatypus.FileBrowser
 {
