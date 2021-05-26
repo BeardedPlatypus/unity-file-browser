@@ -1,0 +1,13 @@
+{
+  "name": "com.beardedplatypus.filebrowser",
+  "version": "0.1.0",
+  "displayName": "BeardedPlatypus.FileBrowser",
+  "description": "A (Windows only) file-browser implementation.",
+ "keywords": [
+    "filebrowser"
+  ],
+  "author": {
+    "name": "Maarten Tegelaers",
+    "url": "https://github.com/BeardedPlatypus/unity-file-browser"
+  }
+}

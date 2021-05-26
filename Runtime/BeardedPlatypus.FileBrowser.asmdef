@@ -1,0 +1,17 @@
+{
+    "name": "BeardedPlatypus.FileBrowser.Runtime",
+    "rootNamespace": "BeardedPlatypus.FileBrowser",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Ookii.Dialogs.WinForms.dll",
+        "System.Windows.Forms.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}
