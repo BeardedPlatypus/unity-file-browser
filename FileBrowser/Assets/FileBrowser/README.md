@@ -1,6 +1,7 @@
 # unity-file-browser
 
 *[The source code can be found in this repository.](https://github.com/BeardedPlatypus/unity-file-browser)*
+*The current version of this source code: v0.1.0*
 
 A simple (windows-only for now) file browser wrapper for unity, based on the [Unity Standalone File Browser](https://github.com/gkngkc/UnityStandaloneFileBrowser). 
 It wraps the [Ookii.Dialogs.WinForms](https://github.com/ookii-dialogs/ookii-dialogs-winforms) into a single static class to allow the consumer to query users for paths. 
