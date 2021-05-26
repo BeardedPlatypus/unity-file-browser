@@ -1,5 +1,5 @@
 {
-    "name": "BeardedPlatypus.FileBrowser.Runtime",
+    "name": "BeardedPlatypus.FileBrowser",
     "rootNamespace": "BeardedPlatypus.FileBrowser",
     "references": [],
     "includePlatforms": [],
